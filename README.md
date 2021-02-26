@@ -42,7 +42,6 @@ Generate recommendations for any one of your spotify playlists!
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -59,9 +58,9 @@ The aim of this project is to generate song recommendations for a target spotify
 ### Built With
 
 This section list major frameworks that is used to built the project.
-* [Python](https://getbootstrap.com)
-* [Flask](https://jquery.com)
-* [Spotipy](https://laravel.com)
+* [Python](https://www.python.org)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Spotipy](https://flask.palletsprojects.com/en/1.1.x/)
 
 ### Methodology
 ![process][methodology-0]
@@ -132,15 +131,6 @@ You can access playlist URI like this
 You can launch the app in the browser using client/index.html file. Once you launch the app in the browser the source playlist URI goes in the left text field and the target playlist URI goes in right text field. Hit **search**
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -161,10 +151,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/product.png
 [setting-screenshot]: images/app_setting.png
 [methodology-1]: images/cosine_sim_2.png
